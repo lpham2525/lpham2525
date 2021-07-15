@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on my ArtistADay project.
 - 🤔 I’m looking for help with solidifying my knowledge of React JS.
 - 💬 Ask me about my love of Studio Ghibli films!
-- 📫 How to reach me: Lpham2525@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/lanchi-pham/
 - 😄 Pronouns: All of my nouns are cons. 
 - ⚡ Pun fact: I love puns!
